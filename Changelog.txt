@@ -1,2 +1,11 @@
+ + = added thing
+ - = removed thing/bug
+ * = done with
+ ^ = started with
+
 -Changelog 1- >
+         ^ Started with the class selector GUI
+         ^ Started Adding new class Mage
+         ^ Started adding new class Assasin
          
+                  
