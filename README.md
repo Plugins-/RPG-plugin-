@@ -1,4 +1,0 @@
-RPG-plugin-
-===========
-
-RPG plugin
