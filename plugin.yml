@@ -1,0 +1,7 @@
+name: RPG-Plugin
+version: 0.0.1
+main: two.HDMinecraftnerd.Deepstream.rpg.Main
+authors: [HDMinecraftnerd, Deepstream]
+description: Easy-to-use RPG-Plugin
+
+commands:
