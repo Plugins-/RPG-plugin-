@@ -13,6 +13,7 @@ warlocksten */
 frankis33?
 HDminecraftnerd?
 Deepstream?
+______________________
 
 codes:
 
@@ -23,7 +24,7 @@ frankis33-
 HDmiencraftnerd *
 
 Deepstream *
-
+______________________
 coustom sounds:
 
 HDminecraftnerd */
@@ -33,7 +34,7 @@ warlocksten -
 frankis33 -
 
 deepstream -
-
+______________________
 Activa på GitHub:
 
 HDminecraftnerd *
@@ -41,13 +42,13 @@ HDminecraftnerd *
 warlocksten */
 frankis33 */
 deepstream *
-
+______________________
 ideer till pluginet:
 HDminecraftnerd: */
 deepstream */
 frankis33 */
 Warlocksten *
-
+______________________
 
 TODO-List:
 Fixa Warlock klassen (HD och Deep)
