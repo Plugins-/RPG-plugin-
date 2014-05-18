@@ -37,3 +37,16 @@ HDminecraftnerd: */*
 deepstream */*
 frankis33 */*
 Warlocksten *
+
+
+TODO-List:
+Fixa Warlock klassen (HD och Deep)
+Custom Resource Pack (Warlock)
+Göra ett Talent tree
+
+
+
+
+
+
+
