@@ -17,6 +17,7 @@ public class ItemUseEvent implements Listener{
 		plugin.getServer().getPluginManager().registerEvents(this, plugin);
 	}
 	
+	@SuppressWarnings("deprecation")
 	@EventHandler
 	public void onPlayerInteract(PlayerInteractEvent e){
 		Player player = (Player)e.getPlayer();
@@ -24,6 +25,8 @@ public class ItemUseEvent implements Listener{
 		if(e.getAction() == Action.RIGHT_CLICK_AIR || e.getAction() == Action.RIGHT_CLICK_BLOCK){
 			if(player.getItemInHand().getType() == Material.NETHER_STAR){
 				player.launchProjectile(WitherSkull.class);
+			}else if(player.getItemInHand().getType() == Material.IRON_INGOT){
+				player.getWorld().strikeLightning(player.getTargetBlock(null, 100).getLocation());
 			}
 		}
 	}
