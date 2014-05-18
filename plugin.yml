@@ -5,3 +5,10 @@ authors: [HDMinecraftnerd, Deepstream]
 description: Easy-to-use RPG-Plugin
 
 commands:
+    money:
+        usage: /money
+        description: shows how much money you've got.
+        alias: balance
+    pay:
+        usage: /pay <reciver> <amount>
+        description: Pays specific amount to a reciver.

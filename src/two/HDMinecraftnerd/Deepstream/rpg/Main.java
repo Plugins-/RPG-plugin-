@@ -4,13 +4,17 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import two.HDMinecraftnerd.Deepstream.rpg.event.InventoryEvent;
+import two.HDMinecraftnerd.Deepstream.rpg.economy.Economy;
+import two.HDMinecraftnerd.Deepstream.rpg.event.ClassSelectorEvent;
+import two.HDMinecraftnerd.Deepstream.rpg.event.ItemUseEvent;
 
 public class Main extends JavaPlugin {
 
 	@Override
 	public void onEnable() {
-		new InventoryEvent(this);
+		new ClassSelectorEvent(this);
+		new ItemUseEvent(this);
+		new Economy(this);
 	}
 
 	@Override
