@@ -8,4 +8,18 @@
          ^ Started Adding new class Mage
          ^ Started adding new class Assasin
          
+
+-Changelog 2- >
+         * Done with the class selector GUI
+         + added 2 skills to the Mage class >
+                                                1.Fireball stick
+                                                2.feather of jumping
+                                            <
+         + Added some stuff to the Assasin class
+         ^ Started with Archer class 
+         + added archer skill
+         ^ Started with RPG-economy
+         + added RPG-economy
+         ^ started with Guilds
+         
                   
